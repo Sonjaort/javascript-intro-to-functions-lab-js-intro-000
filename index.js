@@ -7,6 +7,6 @@ if (string.toLowerCase() === string) { var lowerCase = string.toLowerCase();
 return “I can’t hear you!” ;
 } else if (string.toUpperCase() === string ) { var upperCase = 'YES INDEED!';
 return (“YES INDEED!”);
-} else mixedCase = `I love you, too.`; 
+} else mixedCase = `I love you, too.`;
 return(mixedCase);
 }
